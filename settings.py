@@ -6,7 +6,5 @@ SECRET_KEY = "asghnjadfbtywyn"
 OPENAI_API_KEY = ""
 
 # openAi 官方 api
-URL = "https://gpt.bemore.lol"
+URL="https://api.openai.com/v1/chat/completions"
 
-# openAi 代理 api
-# URL = "https://gpt.bemore.lol"
