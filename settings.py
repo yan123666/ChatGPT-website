@@ -6,5 +6,5 @@ SECRET_KEY = "asghnjadfbtywyn"
 OPENAI_API_KEY = "sk-5JhzE3LE3Q7i7aJW3d776cCbE04643B6A4185877D7D91535"
 
 # openAi 官方 api
-URL="https://api.xty.app/v1"
+URL="https://api.openai.com/v1/chat/completions"
 
