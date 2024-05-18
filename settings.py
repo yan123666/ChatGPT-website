@@ -3,8 +3,8 @@
 SECRET_KEY = "asghnjadfbtywyn"
 
 # openAi api key
-OPENAI_API_KEY = "sk-A9dRU3eL0KBM7oqG14B08939CaC74613982562A5C90bFb86"
+OPENAI_API_KEY = "sk-5JhzE3LE3Q7i7aJW3d776cCbE04643B6A4185877D7D91535"
 
 # openAi 官方 api
-URL="https://platform.openai.com/account/api-keys"
+URL="https://api.xty.app/v1"
 
